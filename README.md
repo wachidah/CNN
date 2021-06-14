@@ -1,2 +1,2 @@
 # CNN
-CNN with Keras and LeNet
+CNN with Keras using LeNet and AlexNet
